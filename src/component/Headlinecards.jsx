@@ -18,8 +18,8 @@ const Headlinecards = () => {
        <div className='rounded-xl relative'>
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-          <p className='font-bold text-2xl px-2 pt-4'>Sun's Out, BOGO's Out </p>
-          <p className='px-2'>Through 9/28</p>
+          <p className='font-bold text-2xl px-2 pt-4'>New Resturants </p>
+          <p className='px-2'>Added daily</p>
           <button className='borderwhite bg-white text-black mx-2 absolute bottom-4'>Order Now</button>
 
         </div>
@@ -29,8 +29,8 @@ const Headlinecards = () => {
        <div className='rounded-xl relative'>
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-          <p className='font-bold text-2xl px-2 pt-4'>Sun's Out, BOGO's Out </p>
-          <p className='px-2'>Through 9/28</p>
+          <p className='font-bold text-2xl px-2 pt-4'>We Deliver Desserts Too </p>
+          <p className='px-2'>Tasty treats</p>
           <button className='borderwhite bg-white text-black mx-2 absolute bottom-4'>Order Now</button>
 
         </div>
